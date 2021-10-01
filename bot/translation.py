@@ -8,7 +8,7 @@ class Translation(object):
 
 <b>Am Just A Pro Auto Filter Bot....😉</b>
 
-<b>Just Add Me To Your Group And Channel And Connect Them And See My Pevers 🔥🔥😝</b>
+<b>chumma samayam kalayathe pode njan all movies group mathram ullatha🔥🔥😝</b>
 
 <b>Watch the video below to build an Pro Autofilter bot like me...</b>
 
@@ -20,8 +20,8 @@ class Translation(object):
 <b>😉How To Use Me!😉?</b>
 
 <i>
--> Add Me To Any Group And Make Me Admin
--> Add Me To Your Desired Channel
+-> Join our updates channel
+-> Join our group
 </i>
 
 <b>Bot Commands (Works Only In Groups) :</b>
@@ -51,9 +51,9 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
     
-<b>➥ 😎Creator</b> : <b>@AlbertEinstein_TG</b> 
+<b>➥ 😎Creator</b> : <b>@Sarathvkb</b> 
 
-<b>➥ 👨‍💻Editor</b> : <b>@Mrk_YT</b>
+<b>➥ 👨‍💻Editor</b> : <b>@Sarathvkb</b>
 
 <b>➥ 🗣️Language</b> : <b>Python3</b>
 
