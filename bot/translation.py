@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
-# (c) @AlbertEinsteinTG & @MRK_YT
+# (c) @AlbertEinsteinTG & @Sarathvkb 
 
 class Translation(object):
     
@@ -51,7 +51,7 @@ class Translation(object):
     
     ABOUT_TEXT = """<b>➥ 📃Name</b> : <b>Pro Auto Filter Bot</b>
     
-<b>➥ 😎Creator</b> : <b>@Sarathvkb</b> 
+<b>➥ 😎Creator</b> : <b>@AlbertEinsteinTG</b> 
 
 <b>➥ 👨‍💻Editor</b> : <b>@Sarathvkb</b>
 
